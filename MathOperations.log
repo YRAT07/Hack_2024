@@ -1,0 +1,7 @@
+2024-09-16 15:10:58,600 - ERROR - Error loading data from input_data.json: [Errno 2] No such file or directory: 'input_data.json'
+2024-09-16 15:11:18,138 - INFO - Data loaded successfully from InputData.json
+2024-09-16 15:11:18,138 - INFO - Adding 5 + 3 = 8
+2024-09-16 15:11:18,138 - INFO - Subtracting 10 - 4 = 14
+2024-09-16 15:11:18,138 - INFO - Multiplying 7 * 6 = 42
+2024-09-16 15:11:18,138 - ERROR - Division by zero for 8 / 0
+2024-09-16 15:11:18,138 - INFO - Exponentiating 2 ** 3 = 6
